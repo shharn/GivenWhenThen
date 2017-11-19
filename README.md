@@ -21,7 +21,7 @@ Simple test library for given/when/then phrases
 
 * Specify the Target class in beginTest() method.
 * Return expected value in given() method. <br/>
-* Return actual value from the test method in when() method. <br/>
+* Return actual value from the testMethod() in when() method. <br/>
 * Do verifications with expected, actual value parameters in then() method
 
 #### Test for 'List' object
